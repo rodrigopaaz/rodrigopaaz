@@ -6,8 +6,8 @@
 
 :student:  Sou formado em Administração de Empresas, estou em transição de carreira para a área de programação.
 
-<div align="center" style="display: inline_block"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaaz&layout=compact&langs_count=16&theme=dark"/>
+<div align="center" style="display: inline_block"> <img height="100em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaaz&layout=compact&langs_count=16&theme=dark"/>
 
 </div>
 <br>

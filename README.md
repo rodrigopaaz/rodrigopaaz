@@ -21,9 +21,3 @@
 <img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
 <img src ="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  
 </div>
-
-<div align="center"> 
-
-  ![Snake animation](https://github.com/rodrigopaaz/rodrigopaaz/blob/output/github-contribution-grid-snake.svg)
- 
-</div>

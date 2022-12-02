@@ -22,7 +22,7 @@
 <img src ="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  
 </div>
 
-<div> 
+<div align="center"> 
 
   ![Snake animation](https://github.com/rodrigopaaz/rodrigopaaz/blob/output/github-contribution-grid-snake.svg)
  

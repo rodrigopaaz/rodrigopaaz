@@ -1,11 +1,22 @@
-:raising_hand_man: Olá!! 
+  <h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- Me Chamo Rodrigo Paz,
-- Sou estudande Full-Stack na Trybe,
-- Atualmente terminando o módulo de Front-End.
+<hr>
 
-:student:  Sou formado em Administração de Empresas, estou em transição de carreira para a área de programação.
 
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/rodrigoopaz)](https://www.instagram.com/rodrigopazlimas/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/rodrigoopaz)](https://www.linkedin.com/in/rodrigo-paz-dev/)
+
+</h4>
+  
+<h4 align="center">Olá, Me chamo Rodrigo Paz,
+  </h4>
+  
+  ```
+Sou estudande Full-Stack na Trybe, Atualmente terminando o módulo de Front-End. 🇧🇷
+Sou formado em Administração de Empresas, estou em transição de carreira para a área de programação. 
+```
 <div align="center" style="display: inline_block"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaaz&layout=compact&langs_count=16&theme=dark"/>
 

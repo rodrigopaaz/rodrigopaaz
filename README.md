@@ -21,6 +21,7 @@ Sou formado em Administração de Empresas, estou em transição de carreira par
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaaz&layout=compact&langs_count=16&theme=dark"/>
 
 </div>
+
 <br>
 <div align="center" style="display: inline_block">
 <img src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />

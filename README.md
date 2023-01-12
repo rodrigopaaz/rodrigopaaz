@@ -18,6 +18,9 @@ Sou estudande Full-Stack na Trybe, Atualmente terminando o módulo de Front-End.
 Sou formado em Administração de Empresas, estou em transição de carreira para a área de programação. 
 ```
 <div align="center" style="display: block"> 
+  
+  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rodrigoopaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
   <img align='left' width='50%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rodrigoopaz&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />
 
 <img align='left' width='50%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigoopaz&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />

@@ -20,7 +20,7 @@ Sou formado em Administração de Empresas, estou em transição de carreira par
 <div align="center" style="display: block"> 
   <img align='left' width='50%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rodrigoopaz&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />
 
-<img align='left' width='50%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigoopaz&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark"" />
+<img align='left' width='50%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigoopaz&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />
 </div>
 
 <br>

@@ -17,7 +17,7 @@
   </h4>
   
   ```
-Sou estudande Full-Stack na Trybe, Atualmente terminando o módulo de Front-End. 🇧🇷
+Sou Desenvolvedor Front-End Junior, Atualmente cursando o módulo de Back-End na Trybe. 🇧🇷
 Sou formado em Administração de Empresas, estou em transição de carreira para a área de programação. 
 ```
 <div align="center" style="display: block"> 

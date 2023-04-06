@@ -42,4 +42,20 @@ melhorias, sejam estas nas hard ou soft skills.
 <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
 <img src ="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  
+      <img align="center" alt="Redux-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></a>
+    <a href="https://nodejs.org/en/">
+  <img align="center" alt="Node-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+  <a href = "https://www.typescriptlang.org/">
+  <img align="center" alt="TS-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
+
+  <a href = "https://www.docker.com/">
+  <img align="center" alt="Docker-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></a>
+ 
+  <a href = "https://sequelize.org/">
+  <img align="center" alt="Sequelize-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></a>
+  
+  <a href = "https://www.mysql.com/">
+  <img align="center" alt="MySQL-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
+  </div>
+  
 </div>

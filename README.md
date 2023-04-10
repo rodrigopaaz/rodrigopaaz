@@ -17,11 +17,13 @@
   </h4>
   
   ```
-Sou Desenvolvedor Front-End Junior, Atualmente cursando o módulo de Back-End na Trybe. 🇧🇷
-Sou formado em Administração de Empresas, estou em transição de carreira para a área de programação. 
+Sou Desenvolvedor Full-Stack Junior, Atualmente cursando o módulo de Back-End na Trybe. 🇧🇷
+Sou formado em Administração de Empresas, empreendi por cerca de dez anos no comércio varejista, porém minha paixão sempre foi a área de TI, por isso me decidi e pulei de cabeça para a área de programação.
 
-Sou paixonado por tecnologia e resolução de problemas, gosto de desafios e estou em uma constante busca por 
-melhorias, sejam estas nas hard ou soft skills.
+Já Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em versionamento de código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, programação com JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
+
+Estou finalizando o módulo de Back-End onde aprendi, TypeScript, Docker, Node.js, Express, Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose.
+
 ```
 <div align="center" style="display: block"> 
   

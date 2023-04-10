@@ -35,12 +35,11 @@ Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose.
 <div align="center" style="display: block"> 
   
 <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rodrigopaaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+  <br>
   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigopaaz&layout=compact&langs_count=16&theme=dark"/>
 
 </div>
 
-<br>
 <br>
  <h1 align='center'>Minhas Stacks 🛠️</h1>
  </p>

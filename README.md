@@ -82,7 +82,6 @@ Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose.
     </td>
   </tr>
 </table>
-
 </table>
 </div>
   

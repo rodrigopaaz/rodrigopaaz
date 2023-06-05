@@ -18,12 +18,17 @@
   </h4>
   
   ```
-Desenvolvedor full-stack apaixonado por tecnologia, 
-com habilidades em React, Hooks, Redux, RTL, Jest, Node.js, 
-MySQL, arquitetura MSC, Docker, Express, MongoDB e TypeScript. Experiência em realizar 
-testes unitários e de integração para garantir a qualidade do código. 
-Familiarizado com tecnologias ágeis, como Kanban e Scrum. 
-
+Sou Desenvolvedor Full-Stack Junior, Atualmente cursando o módulo de Back-End na Trybe. 🇧🇷
+Sou formado em Administração de Empresas, empreendi por cerca de dez anos no comércio varejista, 
+porém minha paixão sempre foi a área de TI, por isso me decidi e pulei de cabeça para a 
+área de programação.
+Já Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em versionamento de
+código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, programação com 
+JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração 
+com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
+Estou finalizando o módulo de Back-End onde aprendi, TypeScript, Docker, Node.js, Express, 
+Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), 
+Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose.
 ```
 <br>
 <div align="center" style="display: block"> 

@@ -20,9 +20,11 @@
   ```
 Desenvolvedor full-stack apaixonado por tecnologia, com conhecimentos em versionamento de
 código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, 
-TypeScript, Docker, Node.js, Express, Sequelize, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), 
-GitHub Actions (CI),Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose.
-programação com JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração 
+TypeScript, Docker, Node.js, Express, Sequelize, Mocha, Chai, banco de dados SQL e NoSQL 
+(MySQL e Mongo), GitHub Actions (CI),Railway (CD), SOLID, POO(Programacao orientada a objetos), 
+Moongose, programação com JavaScript (ES6+) e bibliotecas como React e Redux. 
+
+Tenho conhecimentos em testes automatizados unitários e de integração 
 com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
 
  Interessado em aprender e aplicar novas tecnologias, como JAVA e C#. Buscando oportunidades para aplicar meus 

@@ -18,17 +18,15 @@
   </h4>
   
   ```
-Sou Desenvolvedor Full-Stack Junior, Atualmente cursando o módulo de Back-End na Trybe. 🇧🇷
-Sou formado em Administração de Empresas, empreendi por cerca de dez anos no comércio varejista, 
-porém minha paixão sempre foi a área de TI, por isso me decidi e pulei de cabeça para a 
-área de programação.
-Já Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em versionamento de
-código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, programação com 
-JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração 
+Desenvolvedor full-stack apaixonado por tecnologia, com conhecimentos em versionamento de
+código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, 
+TypeScript, Docker, Node.js, Express, Sequelize, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), 
+GitHub Actions (CI),Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose.
+programação com JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração 
 com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
-Estou finalizando o módulo de Back-End onde aprendi, TypeScript, Docker, Node.js, Express, 
-Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), 
-Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose.
+
+ Interessado em aprender e aplicar novas tecnologias, como JAVA e C#. Buscando oportunidades para aplicar meus 
+ conhecimentos e contribuir para projetos significativos.
 ```
 <br>
 <div align="center" style="display: block"> 
